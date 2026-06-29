@@ -11,3 +11,15 @@ Welcome to my personal repository of LeetCode solutions! This workspace contains
 
 ## 📂 Repository Structure
 Solutions are organized by their respective topics. Each file typically contains the problem statement link, the solution code, and time/space complexity analysis.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
