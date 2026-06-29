@@ -18,11 +18,13 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
 ## Two Pointers
