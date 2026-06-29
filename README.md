@@ -17,9 +17,14 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
