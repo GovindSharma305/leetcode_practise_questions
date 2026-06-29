@@ -18,13 +18,35 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
