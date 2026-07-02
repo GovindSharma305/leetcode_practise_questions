@@ -27,6 +27,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
