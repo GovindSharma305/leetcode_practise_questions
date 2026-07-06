@@ -83,4 +83,8 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
