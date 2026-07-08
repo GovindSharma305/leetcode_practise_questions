@@ -32,6 +32,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0875-koko-eating-bananas](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0875-koko-eating-bananas](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0007-reverse-integer) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
