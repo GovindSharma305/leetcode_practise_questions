@@ -97,10 +97,15 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0007-reverse-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1901-find-a-peak-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
