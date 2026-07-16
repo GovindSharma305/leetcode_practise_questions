@@ -108,4 +108,12 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
