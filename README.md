@@ -18,6 +18,7 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -114,6 +115,7 @@ Solutions are organized by their respective topics. Each file typically contains
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1903-largest-odd-number-in-string) |
@@ -121,4 +123,8 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
