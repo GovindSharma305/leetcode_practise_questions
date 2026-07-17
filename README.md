@@ -118,6 +118,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1903-largest-odd-number-in-string) |
@@ -133,8 +134,13 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
