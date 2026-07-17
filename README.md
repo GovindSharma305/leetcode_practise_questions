@@ -117,6 +117,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -127,4 +128,8 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
