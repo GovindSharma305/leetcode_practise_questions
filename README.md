@@ -59,6 +59,7 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 ## Divide and Conquer
@@ -86,6 +87,7 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -116,6 +118,7 @@ Solutions are organized by their respective topics. Each file typically contains
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
