@@ -170,5 +170,10 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
