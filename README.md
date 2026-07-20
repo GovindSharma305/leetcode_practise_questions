@@ -62,6 +62,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0005-longest-palindromic-substring](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,4 +167,8 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
