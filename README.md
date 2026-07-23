@@ -36,6 +36,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0904-fruit-into-baskets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
@@ -109,6 +110,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
@@ -210,4 +212,5 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0003-longest-substring-without-repeating-characters](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
