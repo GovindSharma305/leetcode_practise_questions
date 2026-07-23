@@ -33,6 +33,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -162,6 +163,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0904-fruit-into-baskets) |
 ## String Matching
 |  |
 | ------- |
@@ -206,5 +208,6 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
