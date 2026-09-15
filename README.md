@@ -102,6 +102,7 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -142,6 +143,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0005-longest-palindromic-substring](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0242-valid-anagram) |
@@ -229,9 +231,14 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
