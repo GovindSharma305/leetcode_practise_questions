@@ -30,6 +30,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0493-reverse-pairs) |
@@ -237,6 +238,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0039-combination-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
