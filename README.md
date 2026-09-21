@@ -248,6 +248,7 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0078-subsets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0078-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Bracket Sequences
 |  |
 | ------- |
