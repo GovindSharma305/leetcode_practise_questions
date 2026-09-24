@@ -149,6 +149,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0013-roman-to-integer](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
@@ -162,6 +163,7 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0234-palindrome-linked-list) |
@@ -256,6 +258,7 @@ Solutions are organized by their respective topics. Each file typically contains
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0022-generate-parentheses) |
 ## Algorithm X
 |  |
