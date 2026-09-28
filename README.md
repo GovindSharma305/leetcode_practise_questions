@@ -39,6 +39,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0503-next-greater-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -170,6 +171,7 @@ Solutions are organized by their respective topics. Each file typically contains
 | [0232-implement-queue-using-stacks](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -282,4 +284,8 @@ Solutions are organized by their respective topics. Each file typically contains
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/GovindSharma305/leetcode_practise_questions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
